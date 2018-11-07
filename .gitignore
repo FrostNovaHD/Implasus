@@ -1,0 +1,44 @@
+# Server Software
+players/*
+worlds/*
+plugin_config/*
+plugins/*
+bin*/*
+timings/*
+crashdumps/*
+*.log
+*.txt
+*.phar
+implasus.properties
+/implasus.yml
+memorydumps/*
+resourcepacks/
+maps/*
+
+# IDEs
+.idea/
+nbproject/*
+
+# Windows Image Caches
+Thumbs.db
+
+# Folder Configuration
+Desktop.ini
+
+# Mac (Only)
+.DS_Store
+/nbproject/private/
+
+# Sphinx-doc
+/docs/build/
+!/docs/requirements.txt
+.project
+
+# Composer
+vendor/*
+
+# Travis files
+test_data/*
+
+# Doxygen
+Documentation/*
